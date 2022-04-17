@@ -1,8 +1,11 @@
 # ABOUT ME
-Hello, my name is Baijanath Tharu and am a Web Developer, Blogger and Content Creator. You can read my blogs at [blogsofbaijanath](https://blogsofbaijanath.com).
 
-___
+Hello, my name is Baijanath Tharu and am a Software Developer. You can read my blogs at [blogs](https://bntharu.com.np/blogs).
 
-# Projects
-### 1. [Nepal Covid Tracker](https://github.com/baijanathTharu/covid-tracker-nepal-js) 
-### 2. [Shuffle Player](https://github.com/baijanathTharu/shuffle-music-player) 
+---
+
+# Readings
+
+### 1. [Why I avoid async/await](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
+
+### 2. [Event Loop in NodeJS— Visualized](https://medium.com/@mmoshikoo/event-loop-in-nodejs-visualized-235867255e81)
