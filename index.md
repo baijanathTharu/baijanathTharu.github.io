@@ -4,9 +4,10 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 
 ---
 
-# Projects
+## Projects
 
 ### 1. [Authentication and Authorization in graphql](https://github.com/baijanathTharu/auth-graphql)
+### 2. [Portfolio](https://www.bntharu.com.np/)
 
 ---
 
