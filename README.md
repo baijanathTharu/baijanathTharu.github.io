@@ -11,6 +11,12 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 
 ---
 
+## Blogs
+
+### 1. [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+
+---
+
 # Readings
 
 ### 1. [Why I avoid async/await](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e)
