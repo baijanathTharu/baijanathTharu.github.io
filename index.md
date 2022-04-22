@@ -23,3 +23,5 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 
 ### 2. [Event Loop in NodeJS— Visualized](https://medium.com/@mmoshikoo/event-loop-in-nodejs-visualized-235867255e81)
 ### 3. [Filtering, Pagination and Sorting in graphql](https://www.howtographql.com/graphql-js/8-filtering-pagination-and-sorting/)
+### 4. [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
+
