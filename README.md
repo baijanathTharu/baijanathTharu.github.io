@@ -27,3 +27,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 
 ### 4. [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
 
+### 5. [Why we switched to GoLang](https://medium.com/@samuellaroche/why-we-switched-to-golang-53cb15868eef)
