@@ -29,3 +29,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 5. [Why we switched to GoLang](https://medium.com/@samuellaroche/why-we-switched-to-golang-53cb15868eef)
 ### 6. [Introduction to Test-Driven Development (TDD) with Classic TDD Example](https://khalilstemmler.com/articles/test-driven-development/introduction-to-tdd/)
 ### 7. [How to escape React Hooks Hell](https://medium.com/battlefy/how-to-escape-react-hooks-hell-a66c0d142c9e)
+### 8. [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
