@@ -31,3 +31,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 7. [How to escape React Hooks Hell](https://medium.com/battlefy/how-to-escape-react-hooks-hell-a66c0d142c9e)
 ### 8. [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 ### 9. [How to ask questions as a new engineer](https://genericmikechen.hashnode.dev/how-to-ask-questions-as-a-new-engineer)
+### 10. [How Javascript & Execution Context Works?](https://medium.com/@muhammad.umair1019/how-javascript-execution-context-works-3ce9fef228d5)
