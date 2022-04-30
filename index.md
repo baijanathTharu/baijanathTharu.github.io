@@ -16,6 +16,7 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 1. [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 ### 2. [khalilstemmler.com](https://khalilstemmler.com/)
 ### 3. [Kent C. Dodds](https://kentcdodds.com/blog)
+### 4. [Refactoring](https://refactoring.com/)
 
 ---
 
