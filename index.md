@@ -34,3 +34,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 9. [How to ask questions as a new engineer](https://genericmikechen.hashnode.dev/how-to-ask-questions-as-a-new-engineer)
 ### 10. [How Javascript & Execution Context Works?](https://medium.com/@muhammad.umair1019/how-javascript-execution-context-works-3ce9fef228d5)
 ### 11. [Git commands nobody has told you](https://bootcamp.uxdesign.cc/git-commands-nobody-has-told-you-cd7025bea8db)
+### 12. [How to design a Notification System](https://leandrofranchi.medium.com/how-to-design-a-notification-system-23f381cdeb00)
