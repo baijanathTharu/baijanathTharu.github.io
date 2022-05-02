@@ -16,6 +16,7 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 1. [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 ### 2. [khalilstemmler.com](https://khalilstemmler.com/)
 ### 3. [Kent C. Dodds](https://kentcdodds.com/blog)
+### 4. [Refactoring](https://refactoring.com/)
 
 ---
 
@@ -32,3 +33,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 8. [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 ### 9. [How to ask questions as a new engineer](https://genericmikechen.hashnode.dev/how-to-ask-questions-as-a-new-engineer)
 ### 10. [How Javascript & Execution Context Works?](https://medium.com/@muhammad.umair1019/how-javascript-execution-context-works-3ce9fef228d5)
+### 11. [Git commands nobody has told you](https://bootcamp.uxdesign.cc/git-commands-nobody-has-told-you-cd7025bea8db)
