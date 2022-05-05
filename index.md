@@ -38,3 +38,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 13. [How to design a Notification System](https://leandrofranchi.medium.com/how-to-design-a-notification-system-23f381cdeb00)
 ### 14. [Remove the if-else hell](https://medium.com/javarevisited/remove-the-if-else-hell-java-7927194bd2e)
 ### 15. [The frontend Rendering dilemma: SSG vs ISG vs SSR vs CSR — When to use which?](https://medium.com/@amine.elwer/the-frontend-rendering-dilemma-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-c1d4597aef67)
+### 16. [Stop over-abstracting your React components](https://tech.groww.in/stop-over-abstracting-your-react-components-196400210a7a)
