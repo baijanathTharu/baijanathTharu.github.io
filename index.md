@@ -40,3 +40,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 15. [The frontend Rendering dilemma: SSG vs ISG vs SSR vs CSR — When to use which?](https://medium.com/@amine.elwer/the-frontend-rendering-dilemma-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-c1d4597aef67)
 ### 16. [Stop over-abstracting your React components](https://tech.groww.in/stop-over-abstracting-your-react-components-196400210a7a)
 ### 17. [Am I a senior Front-End developer?](https://medium.com/codex/am-i-a-senior-front-end-developer-6596142bf647)
+### 18. [Worst JavaScript practices that degrade code quality](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)
