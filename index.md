@@ -44,3 +44,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 19. [Code like there is no if-statement](https://medium.com/@shirkavand/code-like-there-is-no-if-statement-36ca170c2b92)
 ### 20. [Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)
 ### 21. [3 Design Patterns Every Developer Should Learn](https://medium.com/bitsrc/3-design-patterns-every-developer-should-learn-71a51568ac9d)
+### 22. [Bad Habits of Mid-Level React Developers](https://enlear.academy/bad-habits-of-mid-level-react-developers-66662d0d88ef)
