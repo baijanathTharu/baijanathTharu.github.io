@@ -42,3 +42,7 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 17. [Am I a senior Front-End developer?](https://medium.com/codex/am-i-a-senior-front-end-developer-6596142bf647)
 ### 18. [Worst JavaScript practices that degrade code quality](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)
 ### 19. [Code like there is no if-statement](https://medium.com/@shirkavand/code-like-there-is-no-if-statement-36ca170c2b92)
+### 20. [Good API design, bad API design](https://levelup.gitconnected.com/good-api-design-bad-api-design-2405dcdde24c)
+### 21. [3 Design Patterns Every Developer Should Learn](https://medium.com/bitsrc/3-design-patterns-every-developer-should-learn-71a51568ac9d)
+### 22. [Bad Habits of Mid-Level React Developers](https://enlear.academy/bad-habits-of-mid-level-react-developers-66662d0d88ef)
+### 23. [5 Traits of a Bad Code Reviewer](https://medium.com/@ms_lizzie/5-traits-of-a-bad-code-reviewer-598da8e6dc19)
