@@ -46,3 +46,4 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 21. [3 Design Patterns Every Developer Should Learn](https://medium.com/bitsrc/3-design-patterns-every-developer-should-learn-71a51568ac9d)
 ### 22. [Bad Habits of Mid-Level React Developers](https://enlear.academy/bad-habits-of-mid-level-react-developers-66662d0d88ef)
 ### 23. [5 Traits of a Bad Code Reviewer](https://medium.com/@ms_lizzie/5-traits-of-a-bad-code-reviewer-598da8e6dc19)
+### 24. [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
