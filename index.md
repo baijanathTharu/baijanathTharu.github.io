@@ -17,6 +17,7 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 ### 2. [khalilstemmler.com](https://khalilstemmler.com/)
 ### 3. [Kent C. Dodds](https://kentcdodds.com/blog)
 ### 4. [Refactoring](https://refactoring.com/)
+### 5. [David Walsh](https://davidwalsh.name/)
 
 ---
 
