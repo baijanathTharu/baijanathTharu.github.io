@@ -1,6 +1,4 @@
-# ABOUT ME
-
-Hello, my name is Baijanath Tharu and am a Software Developer. You can read my blogs at [blogs](https://bntharu.com.np/blogs).
+Hello, world!, my name is Baijanath Tharu and am a Software Developer. You can read my blogs at [blogs](https://bntharu.com.np/blogs).
 
 ---
 
@@ -11,7 +9,7 @@ Hello, my name is Baijanath Tharu and am a Software Developer. You can read my b
 
 ---
 
-## Blogs
+## Blogs 
 
 ### 1. [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 ### 2. [khalilstemmler.com](https://khalilstemmler.com/)
