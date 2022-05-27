@@ -47,3 +47,4 @@ Hello, world!, my name is Baijanath Tharu and am a Software Developer. You can r
 ### 23. [5 Traits of a Bad Code Reviewer](https://medium.com/@ms_lizzie/5-traits-of-a-bad-code-reviewer-598da8e6dc19)
 ### 24. [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
 ### 25. [React Is Eating Itself](https://dev.to/bytebodger/react-is-eating-itself-fga)
+### 26. [React Worst Practices — The Beginning](https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470)
