@@ -48,3 +48,4 @@ Hello, world!, my name is Baijanath Tharu and am a Software Developer. You can r
 ### 24. [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
 ### 25. [React Is Eating Itself](https://dev.to/bytebodger/react-is-eating-itself-fga)
 ### 26. [React Worst Practices — The Beginning](https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470)
+### 27. [How much technical debt do you own?](https://medium.com/@pplupo/how-much-technical-debt-do-you-own-92c52f30d454)
