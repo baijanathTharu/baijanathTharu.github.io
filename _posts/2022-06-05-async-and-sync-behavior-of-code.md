@@ -85,6 +85,11 @@ export default function AsyncPage() {
     const isChecked = e.target.checked;
 
     resolveAfter(1, () => checkOrUnCheck(isChecked));
+
+    // Bug here: this block of code is called when the number of unchecked boxes on the UI is not 0.
+    if (unchecked === 0) {
+      alert('This is a bug');
+    }
   };
 
   return (
