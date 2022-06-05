@@ -1,6 +1,6 @@
 title: 'bntharu pages'
 author: 'Baijanath Tharu'
-description: 'A Web Developer from Nepal' # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: 'A Software Developer from Nepal' # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -22,9 +22,15 @@ theme: 'minima'
 
 rss: rss
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
+
+# Markdown Processors
 kramdown:
-  syntax_highlighter_opts:
-    disable: true
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 plugins:
   - jekyll-feed
