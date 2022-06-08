@@ -57,3 +57,5 @@ categories: Miscellaneous
 ### 26. [React Worst Practices — The Beginning](https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470)
 
 ### 27. [How much technical debt do you own?](https://medium.com/@pplupo/how-much-technical-debt-do-you-own-92c52f30d454)
+
+### 28. [Software Documentation Best Practices (With Examples)](https://medium.com/@mithunmanoharan/software-documentation-best-practices-with-examples-8983b2bee99b)
