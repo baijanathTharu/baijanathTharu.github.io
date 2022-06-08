@@ -59,3 +59,5 @@ categories: Miscellaneous
 ### 27. [How much technical debt do you own?](https://medium.com/@pplupo/how-much-technical-debt-do-you-own-92c52f30d454)
 
 ### 28. [Software Documentation Best Practices (With Examples)](https://medium.com/@mithunmanoharan/software-documentation-best-practices-with-examples-8983b2bee99b)
+
+### 29. [Multi-Tenant Application](https://medium.com/@sudheer.sandu/multi-tenant-application-68c11cc68929)
