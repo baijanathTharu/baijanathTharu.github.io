@@ -63,3 +63,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Software Documentation Best Practices (With Examples)](https://medium.com/@mithunmanoharan/software-documentation-best-practices-with-examples-8983b2bee99b)
 
 - [Multi-Tenant Application](https://medium.com/@sudheer.sandu/multi-tenant-application-68c11cc68929)
+
+* [Getting Started with a Multi-tenant Application on Node.js](https://blog.lftechnology.com/designing-a-secure-and-scalable-multi-tenant-application-on-node-js-15ae13dda778)
