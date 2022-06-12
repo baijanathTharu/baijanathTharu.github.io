@@ -67,3 +67,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Getting Started with a Multi-tenant Application on Node.js](https://blog.lftechnology.com/designing-a-secure-and-scalable-multi-tenant-application-on-node-js-15ae13dda778)
 
 - [If the Backend API Returns 100,000 Records at One Time, How Should We Handle it in the Frontend?](https://medium.com/frontend-canteen/if-the-backend-api-returns-100-000-records-at-one-time-how-should-we-handle-it-in-the-frontend-fab21218fe2) 
+
+- [30 Chrome extensions every developer must have](https://studentsxstudents.com/30-chrome-extensions-every-developer-must-have-276f95b5c8e)
