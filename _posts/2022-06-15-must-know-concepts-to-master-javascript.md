@@ -6,7 +6,7 @@ categories: Javascript
 
 One must know following concepts in order to master Javascript.
 
-1. Hoisting
+1. [Hoisting](https://www.programiz.com/javascript/hoisting)
 2. Scope
 3. IIFE and Closures
 4. Prototype and Class
