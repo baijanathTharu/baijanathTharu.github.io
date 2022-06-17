@@ -69,3 +69,5 @@ This is the list of all the important posts that I think are worth reading.
 - [If the Backend API Returns 100,000 Records at One Time, How Should We Handle it in the Frontend?](https://medium.com/frontend-canteen/if-the-backend-api-returns-100-000-records-at-one-time-how-should-we-handle-it-in-the-frontend-fab21218fe2) 
 
 - [30 Chrome extensions every developer must have](https://studentsxstudents.com/30-chrome-extensions-every-developer-must-have-276f95b5c8e)
+
+- [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
