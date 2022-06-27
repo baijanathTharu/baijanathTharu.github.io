@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Async and sync behavior of code'
-categories: [ReactJS, JavaScript]
+categories: [ReactJS, Javascript]
 ---
 
 Repl Link: [Async and sync behavior of code](https://replit.com/@baijanathTharu/Async-and-sync-behavior-of-code)
