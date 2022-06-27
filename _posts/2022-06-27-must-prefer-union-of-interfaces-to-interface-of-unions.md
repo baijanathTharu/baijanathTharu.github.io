@@ -4,7 +4,7 @@ title: 'Must prefer union of interfaces to interface of unions'
 categories: Typescript
 ---
 
-![Code](https://github.com/baijanathTharu/baijanathTharu.github.io/blob/main/images/code.jpg)
+![Code](../images/code.jpg)
 
 Let us see a example:
 
