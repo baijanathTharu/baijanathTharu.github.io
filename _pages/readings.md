@@ -71,3 +71,5 @@ This is the list of all the important posts that I think are worth reading.
 - [30 Chrome extensions every developer must have](https://studentsxstudents.com/30-chrome-extensions-every-developer-must-have-276f95b5c8e)
 
 - [7±2 Reasons Psychology Will Help You Write Better Code by Moran Weber](https://www.youtube.com/watch?v=jAUcbFM0nXE)
+
+- [Advanced JavaScript Concepts that Helped Me Get Better at Coding](https://blog.bitsrc.io/advanced-javascript-aspect-that-helped-me-get-better-at-coding-8d5c794e4392)
