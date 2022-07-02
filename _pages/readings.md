@@ -75,3 +75,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Advanced JavaScript Concepts that Helped Me Get Better at Coding](https://blog.bitsrc.io/advanced-javascript-aspect-that-helped-me-get-better-at-coding-8d5c794e4392)
 
 - [Fundamental Software Architectural Patterns](https://medium.com/@liams_o/fundamental-software-architectural-patterns-663440c5f9a5) 
+
+- [How to Choose the Right Database for Your Application](https://medium.com/javascript-in-plain-english/how-to-choose-the-right-database-for-your-application-11475c9ff242) 
