@@ -77,3 +77,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Fundamental Software Architectural Patterns](https://medium.com/@liams_o/fundamental-software-architectural-patterns-663440c5f9a5) 
 
 - [How to Choose the Right Database for Your Application](https://medium.com/javascript-in-plain-english/how-to-choose-the-right-database-for-your-application-11475c9ff242) 
+
+- [Fundamental Laws of Software Development](https://medium.com/thatoneaspiringengineeringmanager/examining-popular-principles-and-laws-in-software-engineering-c8eb764fcb38) 
