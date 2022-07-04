@@ -79,3 +79,5 @@ This is the list of all the important posts that I think are worth reading.
 - [How to Choose the Right Database for Your Application](https://medium.com/javascript-in-plain-english/how-to-choose-the-right-database-for-your-application-11475c9ff242) 
 
 - [Fundamental Laws of Software Development](https://medium.com/thatoneaspiringengineeringmanager/examining-popular-principles-and-laws-in-software-engineering-c8eb764fcb38) 
+
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) 
