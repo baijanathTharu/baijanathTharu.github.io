@@ -80,4 +80,6 @@ This is the list of all the important posts that I think are worth reading.
 
 - [Fundamental Laws of Software Development](https://medium.com/thatoneaspiringengineeringmanager/examining-popular-principles-and-laws-in-software-engineering-c8eb764fcb38) 
 
-- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898) 
+- [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+
+- [S.O.L.I.D Principles with JS examples](https://medium.com/front-end-weekly/s-o-l-i-d-principles-with-js-examples-db95b44e82e) 
