@@ -83,3 +83,5 @@ This is the list of all the important posts that I think are worth reading.
 - [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 - [S.O.L.I.D Principles with JS examples](https://medium.com/front-end-weekly/s-o-l-i-d-principles-with-js-examples-db95b44e82e) 
+
+- [My 9 Favorite Design Patterns in JavaScript](https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08) 
