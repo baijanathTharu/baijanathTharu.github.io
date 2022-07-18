@@ -84,4 +84,6 @@ This is the list of all the important posts that I think are worth reading.
 
 - [S.O.L.I.D Principles with JS examples](https://medium.com/front-end-weekly/s-o-l-i-d-principles-with-js-examples-db95b44e82e) 
 
-- [My 9 Favorite Design Patterns in JavaScript](https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08) 
+- [My 9 Favorite Design Patterns in JavaScript](https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08)
+
+- [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc) 
