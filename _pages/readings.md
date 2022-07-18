@@ -87,3 +87,5 @@ This is the list of all the important posts that I think are worth reading.
 - [My 9 Favorite Design Patterns in JavaScript](https://blog.bitsrc.io/my-9-favorite-design-patterns-in-javascript-9d2a09651d08)
 
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc) 
+
+- [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a) 
