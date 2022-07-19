@@ -89,3 +89,5 @@ This is the list of all the important posts that I think are worth reading.
 - [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc) 
 
 - [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a) 
+
+- [Why you shouldn’t use Enums in your Code](https://anthony-trad.medium.com/why-you-shouldnt-use-enums-in-your-code-2059cf558105) 
