@@ -101,3 +101,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Clean Node.js Architecture —With NestJs and TypeScript](https://betterprogramming.pub/clean-node-js-architecture-with-nestjs-and-typescript-34b9398d790f)
 
 - [Building attractive CLIs in TypeScript](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript/) 
+
+- [15 fundamental tips on REST API design](https://medium.com/@liams_o/15-fundamental-tips-on-rest-api-design-9a05bcd42920)
