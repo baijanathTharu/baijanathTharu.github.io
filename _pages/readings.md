@@ -103,3 +103,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Building attractive CLIs in TypeScript](https://blog.terrible.dev/Building-attractive-CLIs-in-JavaScript/) 
 
 - [15 fundamental tips on REST API design](https://medium.com/@liams_o/15-fundamental-tips-on-rest-api-design-9a05bcd42920)
+
+- [Reactivity in Solidjs](https://www.solidjs.com/guides/reactivity) 
