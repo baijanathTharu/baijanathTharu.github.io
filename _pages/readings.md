@@ -104,4 +104,6 @@ This is the list of all the important posts that I think are worth reading.
 
 - [15 fundamental tips on REST API design](https://medium.com/@liams_o/15-fundamental-tips-on-rest-api-design-9a05bcd42920)
 
-- [Reactivity in Solidjs](https://www.solidjs.com/guides/reactivity) 
+- [Reactivity in Solidjs](https://www.solidjs.com/guides/reactivity)
+
+- [Things you should know before moving to any JavaScript framework.](https://vijaytembugade.medium.com/things-you-should-know-before-moving-to-any-javascript-framework-466f328f18b4)  
