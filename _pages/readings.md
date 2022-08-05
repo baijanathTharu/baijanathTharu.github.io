@@ -54,6 +54,8 @@ This is the list of all the important posts that I think are worth reading.
 
 - [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
 
+- [The ultimate guide to preparing for the coding interview](https://medium.com/free-code-camp/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9) 
+
 - [React Is Eating Itself](https://dev.to/bytebodger/react-is-eating-itself-fga)
 
 - [React Worst Practices — The Beginning](https://rahuulmiishra.medium.com/react-worst-practices-bdf924efe470)
