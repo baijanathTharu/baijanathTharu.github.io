@@ -20,6 +20,8 @@ This is the list of all the important posts that I think are worth reading.
 
 - [How to escape React Hooks Hell](https://medium.com/battlefy/how-to-escape-react-hooks-hell-a66c0d142c9e)
 
+- [React clean architecture](https://github.com/eduardomoroni/react-clean-architecture) 
+
 - [Dependency Inversion vs. Dependency Injection](https://betterprogramming.pub/straightforward-simple-dependency-inversion-vs-dependency-injection-7d8c0d0ed28e)
 
 - [How to ask questions as a new engineer](https://genericmikechen.hashnode.dev/how-to-ask-questions-as-a-new-engineer)
