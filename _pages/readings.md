@@ -118,4 +118,6 @@ This is the list of all the important posts that I think are worth reading.
 
 - [Things you should know before moving to any JavaScript framework.](https://vijaytembugade.medium.com/things-you-should-know-before-moving-to-any-javascript-framework-466f328f18b4)
 
-- [Front-End Architecture 101 - Nir Kaufman](https://www.youtube.com/watch?v=o8THlN8hgcw) 
+- [Front-End Architecture 101 - Nir Kaufman](https://www.youtube.com/watch?v=o8THlN8hgcw)
+
+- [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) 
