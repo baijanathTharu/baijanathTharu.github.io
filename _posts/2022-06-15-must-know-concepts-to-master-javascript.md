@@ -14,4 +14,4 @@ One must know following concepts in order to master Javascript.
 6. Currying
 7. Callback and Asynchronous Javascript
 8. Polymorphism in Javascript
-9. Event loop
+9. [Event loop](https://www.scaler.com/topics/javascript/event-loop-in-javascript/)
