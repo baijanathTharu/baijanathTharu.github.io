@@ -121,3 +121,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Front-End Architecture 101 - Nir Kaufman](https://www.youtube.com/watch?v=o8THlN8hgcw)
 
 - [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) 
+
+- [Programming’s Greatest Mistakes - Mark Rendle - NDC Copenhagen 2022](https://www.youtube.com/watch?v=qC_ioJQpv4E) 
