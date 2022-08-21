@@ -123,3 +123,5 @@ This is the list of all the important posts that I think are worth reading.
 - [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311) 
 
 - [Programming’s Greatest Mistakes - Mark Rendle - NDC Copenhagen 2022](https://www.youtube.com/watch?v=qC_ioJQpv4E) 
+
+- [Adding Circuit Breakers to Node.Js APIs](https://selvaganesh93.medium.com/adding-circuit-breakers-to-nodejs-apis-8c980d3e96c4) 
